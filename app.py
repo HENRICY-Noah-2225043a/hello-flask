@@ -7,5 +7,5 @@ def hello_world():
   return 'Hello, World!'
 
 @app.route('/gg')
-def hello_world():
+def gg():
   return 'GG!'
